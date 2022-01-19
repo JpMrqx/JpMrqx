@@ -1,4 +1,4 @@
-Prazer em te conhecer eu sou o João Pedro
+E aí, tudo bem? Eu sou o João Pedro
 
 - 🔭 Eu estudo Back e Front-end
 - 📚 Cursando Ciência da Computação
