@@ -2,8 +2,6 @@ Prazer em te conhecer eu sou o João Pedro
 
 - 🔭 Eu estudo Back e Front-end
 - 📚 Cursando Ciência da Computação
-- 😄 Pronomes: ele/dele
- 🎮 🕹
 
    ##
 
@@ -25,4 +23,4 @@ Prazer em te conhecer eu sou o João Pedro
   
    ##
   
-  ![Snake animation](https://github.com/JpMrqx/JpMrqx/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/JpMrqx/JpMrqx/blob/output/github-contribution-grid-snake.svg)
