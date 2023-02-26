@@ -1,6 +1,6 @@
 E aí, tudo bem? Eu sou o João Pedro
 
-- 🔭 Eu estudo Back e Front-end
+- 🔭 Eu estudo Modelagem de Dados, Web e FullStack
 - 📚 Cursando Ciência da Computação
 - IDE Favorita: <img align="center" alt="CJ-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <br>
